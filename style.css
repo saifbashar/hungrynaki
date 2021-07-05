@@ -84,6 +84,21 @@ h3 {
 .img-width {
   width: 100%;
 }
+.blog-header {
+  text-align: center;
+  margin-top: 5%;
+}
+.blog-div {
+  margin: 2%;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.15),
+    -10px -10px 30px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+}
+hr {
+  width: 45%;
+  height: 7px;
+  background-color: black;
+}
 .social-media {
   margin: 5% 20% 5% 20%;
   box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.15),
