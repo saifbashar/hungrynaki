@@ -1,0 +1,49 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #e5e5e5;
+  margin: 0;
+}
+.food {
+  display: flex;
+  margin-bottom: 10%;
+}
+.half-width {
+  width: 50%;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+.box1 {
+  margin-top: 12%;
+}
+h1 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+  color: #575757;
+}
+.half-width img {
+  width: 80%;
+}
+
+.orange {
+  color: orange;
+}
+.link {
+  text-decoration: none;
+  border-radius: 40px;
+  padding: 20px 40px;
+  color: white;
+  background: linear-gradient(#fba24f, #ff1e1e);
+}
+.box1 p {
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+.img2 {
+  height: 10px;
+}
+
+.sec2 {
+  background-image: url(./images/shapes/Frame\ 58.jpg);
+  height: 80%;
+}
