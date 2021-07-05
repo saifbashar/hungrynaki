@@ -1,11 +1,11 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background: #e5e5e5;
+  background-color: #fffcfc;
   margin: 0;
 }
-.food {
+.flexiable {
   display: flex;
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
 .half-width {
   width: 50%;
@@ -40,10 +40,63 @@ h1 {
   margin-bottom: 60px;
 }
 .img2 {
-  height: 10px;
+  height: 600px;
 }
 
+h3 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #575757;
+}
 .sec2 {
-  background-image: url(./images/shapes/Frame\ 58.jpg);
-  height: 80%;
+  background-image: url(./images/shapes/Frame\ 57.jpg);
+}
+
+.box2 {
+  margin-top: 10%;
+}
+.box2 p {
+  margin-bottom: 10%;
+  margin-right: 25%;
+}
+.recipies {
+}
+.recipies-header {
+  margin: 0 23%;
+  display: block;
+  text-align: center;
+}
+
+.menu-bar {
+  display: flex;
+  margin: 0 2% 0 5%;
+}
+.menu-bar div {
+  width: 30%;
+  margin-right: 3%;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.15),
+    -10px -10px 30px rgba(0, 0, 0, 0.15);
+  padding: 1.5%;
+  background-color: white;
+  border-radius: 20px;
+  text-align: justify;
+}
+.img-width {
+  width: 100%;
+}
+.social-media {
+  margin: 5% 20% 5% 20%;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.15),
+    -10px -10px 30px rgba(0, 0, 0, 0.15);
+  background-color: #c0bebe;
+}
+.social-media div {
+  margin: 5%;
+  width: 50%;
+}
+footer {
+  text-align: center;
+  padding: 50px;
+  background-color: black;
+  color: white;
 }
